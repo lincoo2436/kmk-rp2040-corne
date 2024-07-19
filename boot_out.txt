@@ -1,0 +1,4 @@
+Adafruit CircuitPython 9.0.5 on 2024-05-22; 0xCB Helios with rp2040
+Board ID:0xcb_helios
+UID:DE61BC42DB794D31
+[2K[0Gboot.py output:
