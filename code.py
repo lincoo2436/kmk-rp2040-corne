@@ -64,8 +64,9 @@ class MyKeyboard(KMKKeyboard):
     col_pins = (board.GP29, board.GP28, board.GP27, board.GP26, board.GP22, board.GP20,)
     row_pins = (board.GP4, board.GP5, board.GP6, board.GP7,)
     diode_orientation = DiodeOrientation.COL2ROW
-    data_pin = board.GP0
+    data_pin = board.GP8
     data_pin2 = board.GP1
+#   pixelpin = board.GP0 # use for rgb pin
     i2c = board.I2C
     SCL=board.SCL
     SDA=board.SDA
